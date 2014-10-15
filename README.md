@@ -1,4 +1,5 @@
 # fatbot
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dunkfordyce/fatbot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An irc bot and more for node. 
 
